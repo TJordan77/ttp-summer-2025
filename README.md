@@ -158,6 +158,8 @@ July 14 - July 25
 | -------------------------------------- | --------------------- | -------------------- | ------------------ | ---- |
 | Collaboration Check-in | -       | [📺][collab-checkin-lec]       | [🖼️][collab-checkin-slides]  | -    |
 | AI Coding Tools | -       | [📺][ai-tools-lec]       | [📖][ai-tools-slides]  | -    |
+| Capstone 1 Backend | [📝][capstone-1-backend]      | [📺][ai-tools-lec]       | [📖][ai-tools-slides]  | -    |
+
 
 [collab-checkin-lec]: https://youtu.be/Af2Bi7VhbFU
 [collab-checkin-slides]: https://gist.github.com/fterdal/f9d6e9140e140ba8a1874cacaf674944
@@ -165,6 +167,7 @@ July 14 - July 25
 [ai-tools-lec]: https://youtu.be/51i3sq1vbaA
 [ai-tools-slides]: https://gist.github.com/fterdal/6e8b5efde9bd67f9c695d7ee0c9bbe20
 
+[capstone-1-backend]: https://github.com/TJordan77/Capstone-1-Backend
 ## Capstone II
 
 July 28 - August 22
