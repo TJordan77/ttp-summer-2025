@@ -154,25 +154,32 @@ July 7 - July 11
 
 July 14 - July 25
 
-| Topic                  | Assignment | Lecture                  | Slides                      | Demo                                                         |
-| ---------------------- | ---------- | ------------------------ | --------------------------- | ------------------------------------------------------------ |
-| Collaboration Check-in | -          | [📺][collab-checkin-lec] | [🖼️][collab-checkin-slides] | -                                                            |
-| AI Coding Tools        | -          | [📺][ai-tools-lec]       | [📖][ai-tools-slides]       | -                                                            |
+| Topic                                  | Assignment            | Lecture              | Slides             | Demo |
+| -------------------------------------- | --------------------- | -------------------- | ------------------ | ---- |
+| Collaboration Check-in | -       | [📺][collab-checkin-lec]       | [🖼️][collab-checkin-slides]  | -    |
+| AI Coding Tools | -       | [📺][ai-tools-lec]       | [📖][ai-tools-slides]  | -    |
+| Capstone 1 Backend | [📝][capstone-1-backend]      | -       | -     | -    |
+| Capstone 1 Frontend | [📝][capstone-1-frontend]      | -       | -     | -    |
 | WebSockets             | -          | [📺][websockets-lec]     | [🖼️][websockets-slides]     | [💻 back][websockets-demo-be] [💻 front][websockets-demo-fe] |
 | IRV Algorithm          | -          | [📺][irv-algo-lec]       | [🖼️][irv-algo-photos]       | -                                                            |
 
-[📖 Capstone II Guidelines](https://gist.github.com/fterdal/a09bfb22d66e968f8a100c4c68c29128)
-
 [collab-checkin-lec]: https://youtu.be/Af2Bi7VhbFU
 [collab-checkin-slides]: https://gist.github.com/fterdal/f9d6e9140e140ba8a1874cacaf674944
+
 [ai-tools-lec]: https://youtu.be/51i3sq1vbaA
 [ai-tools-slides]: https://gist.github.com/fterdal/6e8b5efde9bd67f9c695d7ee0c9bbe20
+
+[capstone-1-backend]: https://github.com/TJordan77/Capstone-1-Backend
+[capstone-1-frontend]: https://github.com/TJordan77/Capstone-1-Frontend
+
 [websockets-lec]: https://youtu.be/h0tyEwo2zgI
 [websockets-slides]: ./slides/15-WebSockets.pdf
 [websockets-demo-be]: https://github.com/fterdal/Sockets-Demo-Backend
 [websockets-demo-fe]: https://github.com/fterdal/Sockets-Demo-Frontend
 [irv-algo-lec]: https://youtu.be/OO1CeTxtFhQ
 [irv-algo-photos]: ./slides/irv-photos
+
+[📖 Capstone II Guidelines](https://gist.github.com/fterdal/a09bfb22d66e968f8a100c4c68c29128)
 
 ## Capstone II
 
@@ -181,3 +188,4 @@ July 28 - August 25
 [💻 Frontend Starting Point](https://github.com/fterdal/Capstone-2-Frontend)
 </br>
 [💻 Backend Starting Point](https://github.com/fterdal/Capstone-2-Backend)
+
